@@ -1,0 +1,54 @@
+<!DOCTYPE HTML>
+<html lang="hr">
+	<head>
+		<title> Matea Webshop </title>
+		<meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+        <meta http-equiv="content-type" content="text/html; charset=utf-8">
+        <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;">
+		<meta name="description" content=" Matea webshop jedan je od najboljih web shopova knjiga za sve uzraste "/>
+		<meta name="keywords" content="knjige, ljubav, sreca "/>
+		<meta name="author" content="Matea Gavrić">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+		
+	</head>
+
+ <bod>
+
+	<nav class="navbar navbar-default">
+
+        
+            <iframe width="800" height="500" src="https://th.bing.com/th/id/R.c52a2a1c314f69b1f7cb69297d524964?rik=7w5jcjUwbdPSxA&riu=http%3a%2f%2fdesigngrapher.com%2fwp-content%2fuploads%2f2013%2f09%2ffolded-book-art-11.jpg&ehk=%2fQrC%2fbzIr4V5KydFOp%2fE2A6TtGlI0QkTBXxLMsR2oSU%3d&risl=&pid=ImgRaw&r=0" title="Čitanko"></iframe>
+        
+		<ul class="nav nav-tabs">
+			<li><a href="index.html">Home</a></li>
+			<li class="active"><a href="o&nama.html">O nama</a></li>
+			<li><a href="contacts.html">Kontakti</a></li>
+            <li><a href="novosti.html">Novosti</a></li>
+            <li><a href="galery.html">Slike</a></li>
+            
+		</ul>
+	</nav>
+     <div>
+         
+     </div>
+     <footer>&copy; Matea Gavrić &amp; Bookshop. All rights reserved. </footer>
+     <h1>O nama</h1>
+ </body>
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
