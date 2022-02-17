@@ -1,0 +1,95 @@
+<!DOCTYPE HTML>
+<html lang="hr">
+	<head>
+		<title> Matea Webshop </title>
+		<meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+        <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;">
+		<meta name="description" content=" Matea knjige "/>
+		<meta name="keywords" content="knjige, ljubav, sreca "/>
+		<meta name="author" content="Matea Gavrić">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="shortcut icon" type="Pictures/ikonica" href="favicon.ico">
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+		
+	
+		<style>
+			html body{margin: 0;	
+						font-family: 'Times New Roman', Times, serif; font-size: 15px;}
+			.slika {background-color: darkcyan; background-image: url("https://th.bing.com/th/id/R.c52a2a1c314f69b1f7cb69297d524964?rik=7w5jcjUwbdPSxA&riu=http://designgrapher.com/wp-content/uploads/2013/09/folded-book-art-11.jpg&ehk=/QrC/bzIr4V5KydFOp/E2A6TtGlI0QkTBXxLMsR2oSU=&risl=&pid=ImgRaw&r=0");
+		background-position: center;}
+			h1{margin: 0 15px 0 15px; 
+				padding: 10px;
+				width: 20%;
+				font-size: 20 px;
+				font-family:'Times New Roman', Times, serif  ;
+			font-style: italic;} 
+			s{margin: 0 15px 0 15px;
+				padding: 10px;
+				width: 20%;
+				font-size: 14px;
+				font-family: 'Times New Roman', Times, serif;
+			}
+		</style>
+		
+	</head>
+
+ <body>
+
+	<nav">
+
+        <div class="slika">	
+            <iframe width="750" height="500" src="https://th.bing.com/th/id/R.c52a2a1c314f69b1f7cb69297d524964?rik=7w5jcjUwbdPSxA&riu=http%3a%2f%2fdesigngrapher.com%2fwp-content%2fuploads%2f2013%2f09%2ffolded-book-art-11.jpg&ehk=%2fQrC%2fbzIr4V5KydFOp%2fE2A6TtGlI0QkTBXxLMsR2oSU%3d&risl=&pid=ImgRaw&r=0" title="Čitanko"></iframe>
+		</div>
+		<ul class="nav nav-tabs">
+			<li><a href="index.html">Home</a></li>
+			<li class="active"><a href="o&nama.html">O nama</a></li>
+			<li><a href="contacts.html">Kontakti</a></li>
+            <li><a href="novosti.html">Novosti</a></li>
+            <li><a href="galery.html">Slike</a></li>
+            
+		</ul>
+		<p></p>
+	</nav>
+	<link rel="stylesheet" type="text/css" href="style.css">
+	
+     
+         
+    
+    
+     <h1>O nama</h1>
+	</div>
+	 <div class="p">
+	 <p> “Koliko ljudi je započelo novu eru u svom životu pročitavši neku knjigu.”
+		– Henry David Thoreau </p> 
+	 </div>
+	
+	 <p> Čitanje je put do znanja i novih spoznaja, a događaji i aktivnosti koji nas očekuju tijekom ove godine doprinijet će razvoju kulture čitanja i omogućiti što većem dijelu društva čitanje sa zadovoljstvom i razumijevanjem. </p>
+	  <p> Na prijedlog Ministarstva kulture i medija, Vlada Republike Hrvatske proglasila je 2021. Godinom čitanja. Realizacija je to mjere Akcijskog plana Nacionalne strategije poticanja čitanja usvojene 2017. godine, a koja doprinosi razvoju kulture čitanja i omogućava što većem broju pripadnika hrvatskog društva čitanja sa zadovoljstvom i razumijevanjem. </p>
+
+
+
+
+
+	 <footer>&copy; Matea Gavrić &amp; Bookshop. All rights reserved. </footer>
+	 <p>Social media: <br>
+		<a href="https://www.linkedin.com/" target="_blank"><img src="https://th.bing.com/th/id/R.24eeba595c96018994527df53656e579?rik=LWKn1YBPmLl8QQ&pid=ImgRaw&r=0" title="LinkedIn" alt="LinkedIn" style="width: 25px; margin-top: 5px;"></a>
+		<a href="https://twitter.com/twitter" target="_blank"><img src="https://th.bing.com/th/id/R.3d28ff490ba6ec21f4d5686663690570?rik=%2bL1046YViR%2fVgA&pid=ImgRaw&r=0" title="Twitter" alt="Twitter" style="width: 25px; margin-top: 5px;"></a>
+		<a href="https://www.instagram.com/" target="_blank"><img src="https://th.bing.com/th/id/OIP.xa0FgRBsvMi7bmVNCDYsCgHaHa?pid=ImgDet&rs=1" title="Instagram" alt="Instagram" style="width: 25px; margin-top: 5px;"></a>
+	</p>
+</main>
+</body>
+</html>
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
